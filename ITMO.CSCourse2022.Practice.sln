@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task1.1", "task1\ITMO.CSCourse2022.Labs.Lab1.Task1\ITMO.CSCourse2022.Task1.1.csproj", "{02FD8867-F412-4EF1-829C-07BA3FFF92E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Labs.Lab1.Task4", "task1\ITMO.CSCourse2022.Labs.Lab1.Task4\ITMO.CSCourse2022.Labs.Lab1.Task4.csproj", "{08FAC5B0-F7AB-4C5A-9574-25988C1C2F25}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FD8867-F412-4EF1-829C-07BA3FFF92E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FD8867-F412-4EF1-829C-07BA3FFF92E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FD8867-F412-4EF1-829C-07BA3FFF92E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FD8867-F412-4EF1-829C-07BA3FFF92E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FAC5B0-F7AB-4C5A-9574-25988C1C2F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FAC5B0-F7AB-4C5A-9574-25988C1C2F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FAC5B0-F7AB-4C5A-9574-25988C1C2F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FAC5B0-F7AB-4C5A-9574-25988C1C2F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
