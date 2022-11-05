@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task1.1", "task1\ITMO.CSCourse2022.Labs.Lab1.Task1\ITMO.CSCourse2022.Task1.1.csproj", "{02FD8867-F412-4EF1-829C-07BA3FFF92E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task1.4", "ITMO.CSCourse2022.Task1.4\ITMO.CSCourse2022.Task1.4.csproj", "{EE4AC6A2-11F4-4150-90EE-0B4A0F1570A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task1.4", "task1\ITMO.CSCourse2022.Task1.4\ITMO.CSCourse2022.Task1.4.csproj", "{EE4AC6A2-11F4-4150-90EE-0B4A0F1570A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
