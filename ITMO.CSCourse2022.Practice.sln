@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task5.1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task6.1", "task6\ITMO.CSCourse2022.Task6.1\ITMO.CSCourse2022.Task6.1.csproj", "{0BDFC87E-A7E4-4561-AC56-8A1FB014FB13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task6.2", "task6\ITMO.CSCourse2022.Task6.2\ITMO.CSCourse2022.Task6.2.csproj", "{7AA1D625-014C-4D23-8C0A-F1F8F0E1408D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0BDFC87E-A7E4-4561-AC56-8A1FB014FB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BDFC87E-A7E4-4561-AC56-8A1FB014FB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BDFC87E-A7E4-4561-AC56-8A1FB014FB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA1D625-014C-4D23-8C0A-F1F8F0E1408D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA1D625-014C-4D23-8C0A-F1F8F0E1408D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA1D625-014C-4D23-8C0A-F1F8F0E1408D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA1D625-014C-4D23-8C0A-F1F8F0E1408D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
