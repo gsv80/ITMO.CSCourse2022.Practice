@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task7.2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task8.1", "task8\ITMO.CSCourse2022.Task8.1\ITMO.CSCourse2022.Task8.1.csproj", "{07BE427A-5C53-46BC-9B85-5AE72F584853}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.Task8.2", "task8\ITMO.CSCourse2022.Task8.2\ITMO.CSCourse2022.Task8.2.csproj", "{6B72293D-CC44-4FFC-8B26-C7CD87CD9607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{07BE427A-5C53-46BC-9B85-5AE72F584853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BE427A-5C53-46BC-9B85-5AE72F584853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BE427A-5C53-46BC-9B85-5AE72F584853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B72293D-CC44-4FFC-8B26-C7CD87CD9607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B72293D-CC44-4FFC-8B26-C7CD87CD9607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B72293D-CC44-4FFC-8B26-C7CD87CD9607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B72293D-CC44-4FFC-8B26-C7CD87CD9607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
