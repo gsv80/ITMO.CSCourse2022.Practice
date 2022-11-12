@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ITMO.CSCourse2022.Task5.1")]
+[assembly: AssemblyTitle("ITMO.CSCourse2022.Task6.2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITMO.CSCourse2022.Task5.1")]
+[assembly: AssemblyProduct("ITMO.CSCourse2022.Task6.2")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e07c0acb-7efb-4e5e-af33-ee7ca1491ceb")]
+[assembly: Guid("7aa1d625-014c-4d23-8c0a-f1f8f0e1408d")]
 
 // Version information for an assembly consists of the following four values:
 //

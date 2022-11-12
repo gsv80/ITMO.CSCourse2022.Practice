@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{990CF2A4-8EFF-4B28-B486-80BC49CA1830}</ProjectGuid>
+    <ProjectGuid>{E07C0ACB-7EFB-4E5E-AF33-EE7CA1491CEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ITMO.CSCourse2022.Task5._1</RootNamespace>
     <AssemblyName>ITMO.CSCourse2022.Task5.1</AssemblyName>

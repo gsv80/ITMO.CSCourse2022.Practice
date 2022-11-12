@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F064F46B-2232-4196-9618-DA704A247E47}</ProjectGuid>
+    <ProjectGuid>{0BDFC87E-A7E4-4561-AC56-8A1FB014FB13}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ITMO.CSCourse2022.Task6._1</RootNamespace>
     <AssemblyName>ITMO.CSCourse2022.Task6.1</AssemblyName>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ACCOUNTTYPE.CS" />
+    <Compile Include="BANKACCOUNT.CS" />
+    <Compile Include="CREATEACCOUNT.CS" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
